@@ -1,3 +1,5 @@
+#This is a gib-gab script. If you play this you might see some simalaritys
+#It works but the problem is that I need to be able to start a count in the opposite direction from the same LED.
 # Import the necessary modules
 from machine import Pin
 from utime import sleep
